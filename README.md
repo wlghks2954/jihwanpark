@@ -1,12 +1,12 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Hello%20I'm%20Jihwan&animation=&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Hello%20I'm%20Jihwan&animation=&fontColor=000000&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> JHPARK </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 저는 다양한  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> JHPARK </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 다양한  </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
@@ -22,7 +22,7 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;">  </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
