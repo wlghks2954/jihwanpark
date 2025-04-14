@@ -3,7 +3,10 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hybrid Developer </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요, 저는 소프트웨어 엔지니어로서의 경험을 지닌 하이브리드 개발자 입니다. </li>소프트웨어 엔지니어로서의 탄탄한 기본기 위에 웹 개발 실무 경험까지 더해, </li>전체 서비스의 구조와 흐름을 이해하고 문제를 빠르게 파악해 해결할 수 있습니다 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요, 저는 소프트웨어 엔지니어로서의 경험을 지닌 하이브리드 개발자 입니다. </li>
+        <br>소프트웨어 엔지니어로서의 탄탄한 기본기 위에 웹 개발 실무 경험까지 더해,</li> 
+        <br>전체 서비스의 구조와 흐름을 이해하고 문제를 빠르게 파악해 해결할 수 있습니다 
+    </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
