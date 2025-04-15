@@ -27,9 +27,75 @@
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
           <br/></div>
     </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center">  </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
+    
+    <div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+  <div align="center">
+     Tel: 010-5766-9252
+  </div>
+  <br> 
+
+  <div align="left" style="max-width: 800px; margin: 0 auto; color: #c9d1d9; font-size: 14px;">
+    <details>
+      <summary style="font-size: 16px; font-weight: bold;">👨‍💼 엔지니어로서의 경력</summary>
+      <br/>
+      <ol>
+        <li><strong>사내 디지털트윈 플랫폼 mago3D 설치 및 유지보수</strong>
+          <ul>
+            <li>Windows, Linux(CentOS, Redhat, Ubuntu) 등 다양한 환경 경험</li>
+            <li>Docker 사용 경험</li>
+          </ul>
+        </li>
+        <li><strong>Kaos-G (사내 오픈소스 제품) 유지보수</strong>
+          <ul>
+            <li>Geoserver + PostgreSQL 기반 GIS 아키텍처 설계 및 구축</li>
+            <li>공간데이터 시각화, 사용자 정의 레이어 관리, 클러스터링/로드밸런싱 구현</li>
+            <li>ActiveMQ 기반 메시지 브로커 구성, 캐시 성능 향상</li>
+            <li>Azure 기반 클라우드 환경 구축 및 운영</li>
+          </ul>
+        </li>
+        <li><strong>Cesium 기반 3D 시각화</strong>
+          <ul>
+            <li>3D 모델 가공, Cesium-Tiling-Pipeline 타일링</li>
+            <li>객체 트래킹, 카메라 뷰 이동 등 프로토타입 구현</li>
+            <li>Unreal + Cesium for Unreal 활용, 고성능 렌더링 기능 구현</li>
+            <li>서울기술연구원 SMap 프로젝트 내 기초 교육 진행</li>
+          </ul>
+        </li>
+        <li><strong>사내 서버 및 네트워크 운영 경험</strong>
+          <ul>
+            <li>장비 IP 관리, 방화벽 설정, 포트포워딩, 내부 도메인 연동 등</li>
+          </ul>
+        </li>
+        <li><strong>기술 웨비나</strong>
+          <ul>
+            <li>Geoserver Migration / HA 구성</li>
+            <li>UnrealEngine 패키징</li>
+            <li>Cesium 관련 튜토리얼 다수 진행</li>
+          </ul>
+        </li>
+      </ol>
+    </details>
+    <br/>
+    <details>
+      <summary style="font-size: 16px; font-weight: bold;">💻 개발자로서의 경력</summary>
+      <br/>
+      <ol>
+        <li><strong>부동산가격공시지원시스템 유지보수</strong>
+          <ul>
+            <li>전자정부프레임워크 기반 솔루션 유지보수</li>
+            <li>요구사항 분석, DB설계, API 개발 및 UI 구현</li>
+            <li>JEUS, WebtoB 배포환경 구성 및 운영 자동화</li>
+            <li>Java, Oracle, JQuery, iBatis, Git 등 활용</li>
+            <li>SDW, 세움터 연계 데이터 구축 및 Crontab 배치</li>
+            <li>부동산 정보 API 연계 (K-Geo, Kakao Map 등)</li>
+            <li>통계 데이터 구축 및 SQL 튜닝</li>
+            <li>SHP 파일을 DB에 구축하여 WMS 방식으로 서비스 제공</li>
+          </ul>
+        </li>
+      </ol>
+    </details>
+  </div>
+</div>
+
     
